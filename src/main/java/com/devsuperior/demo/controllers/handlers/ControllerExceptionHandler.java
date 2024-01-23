@@ -1,4 +1,4 @@
-package com.devsuperior.demo.controllers.handles;
+package com.devsuperior.demo.controllers.handlers;
 
 import com.devsuperior.demo.dto.CustomError;
 import com.devsuperior.demo.services.exceptions.DatabaseException;
